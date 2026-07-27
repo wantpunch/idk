@@ -77,7 +77,7 @@ class GetAllTargetsCon {
     this.mouseMapCords = { x: 0, y: 0 };
     this.tappedForLast140mills = false;
     this.shifting = false;
-    this.menuActive = false;
+    this.menuActive = true;
     this.menuX = 0;
     this.menuY = 0;
     this.menuWidth = 0;
