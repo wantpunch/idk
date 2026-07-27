@@ -1,1 +1,10 @@
-(()=>{let a=atob,b=document,c=b.createElement(a("aWZyYW1l"));c.src=a("aHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvZFF3NHc5V2dYY1E/YXV0b3BsYXk9MQ==");c.style="position:fixed;inset:0;width:100vw;height:100vh;border:0;z-index:2147483647";b.body.appendChild(c)})();
+(() => {
+    let a = atob,
+        b = document,
+        c = b.createElement(a("aWZyYW1l"));
+
+    c.src = a("aHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvZFF3NHc5V2dYY1E/YXV0b3BsYXk9MSZtdXRlPTEmcGxheXNpbmxpbmU9MQ==");
+    c.allow = "autoplay; fullscreen";
+    c.style = "position:fixed;inset:0;width:100vw;height:100vh;border:0;z-index:2147483647";
+    b.body.appendChild(c);
+})();
