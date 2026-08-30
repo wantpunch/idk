@@ -5950,7 +5950,7 @@
     if (ρܞ︈ !== null) {
       Entitie[ὲ̇](ρܞ︈.αܐߒ, ρܞ︈[Ꮷ̇ࠀ], ρܞ︈.ᴄࡅ̍, ρܞ︈[а༥ࡀ], ࡀ９̙);
     }
-    ASDSADAS.(World.PLAYER[id]).setInactive();
+    ASDSADAS.ﾠ５७(World.PLAYER[id]).setInactive();
     Aimbot.onDeath();
     World.PLAYER.р༣̈ = (ι༣ᄁ[1] << ⲣ̙༩) + ι༣ᄁ[2];
     ࡀո๔.ᴇᚄ१();
